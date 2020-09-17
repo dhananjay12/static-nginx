@@ -1,1 +1,1 @@
-# static-nginx
+# Simple Nginx serving static html
